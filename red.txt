@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 branch master
 branch settings
 three
-=======
 img
->>>>>>> img
