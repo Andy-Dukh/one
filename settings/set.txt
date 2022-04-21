@@ -1,9 +1,2 @@
-<<<<<<< HEAD
 settings`
 first
-=======
-settings`git add .
-`
-add comit
-three
->>>>>>> settings
