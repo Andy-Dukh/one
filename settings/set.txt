@@ -1,2 +1,6 @@
 settings`
-first
+firstgit add .
+
+add comit
+three
+end
