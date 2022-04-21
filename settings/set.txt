@@ -1,4 +1,4 @@
-settings`git add .
-`
+settings`
 add comit
 three
+end
